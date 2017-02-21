@@ -1,0 +1,8 @@
+E:\MP_MVC_2017\Module1_1\Mentor\ModuleOneProject\ModuleOneProject\bin\Debug\ModuleOneProject.exe.config
+E:\MP_MVC_2017\Module1_1\Mentor\ModuleOneProject\ModuleOneProject\bin\Debug\ModuleOneProject.exe
+E:\MP_MVC_2017\Module1_1\Mentor\ModuleOneProject\ModuleOneProject\bin\Debug\ModuleOneProject.pdb
+E:\MP_MVC_2017\Module1_1\Mentor\ModuleOneProject\ModuleOneProject\obj\Debug\ModuleOneProject.csprojResolveAssemblyReference.cache
+E:\MP_MVC_2017\Module1_1\Mentor\ModuleOneProject\ModuleOneProject\obj\Debug\ModuleOneProject.exe
+E:\MP_MVC_2017\Module1_1\Mentor\ModuleOneProject\ModuleOneProject\obj\Debug\ModuleOneProject.pdb
+E:\MP_MVC_2017\Module1_1\Mentor\ModuleOneProject\ModuleOneProject\bin\Debug\CsQuery.dll
+E:\MP_MVC_2017\Module1_1\Mentor\ModuleOneProject\ModuleOneProject\bin\Debug\CsQuery.xml
